@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefAndOut", "RefAndOut\RefAndOut.csproj", "{BF5C8975-0864-432B-8A53-E9DC3B429FC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{6F7AE1DF-4F72-427A-9C28-6867D6D22A06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BF5C8975-0864-432B-8A53-E9DC3B429FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF5C8975-0864-432B-8A53-E9DC3B429FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF5C8975-0864-432B-8A53-E9DC3B429FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7AE1DF-4F72-427A-9C28-6867D6D22A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7AE1DF-4F72-427A-9C28-6867D6D22A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7AE1DF-4F72-427A-9C28-6867D6D22A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7AE1DF-4F72-427A-9C28-6867D6D22A06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
